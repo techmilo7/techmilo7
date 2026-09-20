@@ -1,8 +1,19 @@
 # Adam Chmichy
 
-**`Founder@LunarPath | CS Student | FinTech`**
+**`CS Student | Java, Spring Boot, Python | London`**
 
-I'm a computer science student with extraordinary interest within the FinTech industry, driving to improve programming skills daily!
+**`Seeking Technology Internship Summer 2026/2027`**
+
+### Projects
+**1. spring-boot-banking-api** - REST banking API. `Java, Spring Boot, PostgreSQL`
+
+**2. python-portfolio-analyzer** - Portfolio metrics & visualization. `Python, Pandas`
+
+**3. dsa-java-python** - DSA in Java/Python.
+
+### Skills
+Java | Spring Boot | Python | SQL
+
 
 
 ---
